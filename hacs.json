@@ -1,0 +1,5 @@
+{
+  "name": "National Rail Enquiries Departure Board",
+  "render_readme": true,
+  "iot_class": "cloud_polling"
+}

@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@azdlowry"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/user/my_component/",
+  "domain": "nationalrailenquires_departure_sensor",
+  "iot_class": "cloud_polling",
+  "name": "National Rail Enquiries Departure Board",
+  "requirements": [],
+  "version": "1.0.0"
+}
